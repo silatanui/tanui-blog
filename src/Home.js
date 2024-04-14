@@ -29,8 +29,8 @@ const Home = () => {
         <button
           type="button"
           class="btn btn-primary ml-5"
-          onClick={() => {
-            handleClickAgain(" Mario");
+          onClick={() =>{
+              handleClickAgain(" Mario")
           }}
         >
           Click Me again
